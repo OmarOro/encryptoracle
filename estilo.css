@@ -98,7 +98,7 @@ main {
 
 .secc2 {
     display: block;
-    position: relative;
+    position: absolute;
     width: 400px;
     height: 840px;
     right: 200px;
